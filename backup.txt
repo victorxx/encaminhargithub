@@ -68,7 +68,8 @@
     const destinos = [
                     
                    "https://victorxx.github.io/reflexaogithubrandom01/ads.html",
-                   "https://victorxx.github.io/segurogithub01/ads.html"
+                   "https://victorxx.github.io/segurogithub01/ads.html",
+                   "saib.html"
     ];
 
     function gerarIdentificador(tamanho = 899) {
